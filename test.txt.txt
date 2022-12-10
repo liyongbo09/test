@@ -1,7 +1,4 @@
-this is use for tortose 
-to commit
-to push
-where to go to dog
+
 afja hello world
 hello go
 hello go
